@@ -2,7 +2,7 @@
 
 Finalizacion 13 de enero de 2023
 
-Author: Estudiante curso Abraham 
+Author: Material realizado en curso - Estudiante Abraham 
 
 Evidencia entregada: 
 -Introduccion a JavaScript
