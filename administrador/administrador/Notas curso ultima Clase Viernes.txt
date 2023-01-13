@@ -1,0 +1,27 @@
+Clase Ultima dia 3 
+
+En este dia ya tenemos el frame para trabajar con un formulario y poder manipular los datos que se van a ingresar los datos ingresados
+con Java.
+
+Hooks 
+
+useState 
+
+const [ventas,  modificador ]= useState("")
+       variable 	
+
+const [ personas, setPersonas] = useState({})
+
+
+Como en objetos para modificar el valor de una propiedad de un objeto se utiliza la funcion, peron en este caso se le llama variable, 
+set personas o modificador en el caso del primero ejemplo 
+
+const [nombre, setNombre] = useState('');
+const [nombre, setNombre] = useState('');
+const [nombre, setNombre] = useState('');
+const [nombre, setNombre] = useState('');
+const [nombre, setNombre] = useState('');
+
+Para poner un error en la pagina en el codigo html y dentro de formulario.jsx
+
+{error ? 'Si hay error': 'No hay error'}

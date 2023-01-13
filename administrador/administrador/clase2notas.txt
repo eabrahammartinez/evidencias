@@ -1,0 +1,52 @@
+Pasos del dia de hoy 
+
+Paso 1. 
+yarn install --global yarn
+
+npm add -D tailwindcss 
+
+Paso 2.
+yarn add -D tailwindcss
+
+npm add -D tailwindcss
+
+Paso 3. 
+yarn tailwindcss init -p 
+npm tailwindcss init -p
+
+Paso 4.
+npx tailwindcss init
+
+yarn add -D tailwindcss postcss autoprefix 
+npm tailwindcss postcss autoprefix
+
+yarn dev
+npm run dev 
+
+Pagina para sacar los estilos
+https://tailwindcss.com/docs/installation
+
+css peel
+
+Para crear un componente en un proyecto hay
+crear la carpeta components en la carpeta src 
+
+Nombre
+
+Correo 
+
+Grupo
+
+
+
+        <div className='m-3 bg-white shadow-md py-10 px-5 rounded-lg'>
+          <p className='  font-bold uppercase'> Nombre: <span className='font-normal normal-case'>Perrie Jackson</span></p>
+          <p className='  font-bold uppercase'> Correo: <span className='font-normal normal-case'>PerrieJackson@gmail.com</span></p>
+          <p className='  font-bold uppercase'> Grupo: <span className='font-normal normal-case'>1IC</span></p>
+          <p className='  font-bold uppercase'> Carrera: <span className='font-normal normal-case'>sistemas</span></p>
+          <p className='  font-bold uppercase'> Fecha: <span className='font-normal normal-case'> 10-10-2000 </span></p>
+          <p className='  font-bold uppercase'> Observaciones: <span className='font-normal normal-case'>Es un buen estudiante </span></p>
+        </div>
+
+
+
