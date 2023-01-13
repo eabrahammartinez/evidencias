@@ -1,0 +1,47 @@
+npm create vite
+creado en la 
+
+npm install --global yarn
+yarn create vite
+
+
+Import './App.css'
+import {Boton } from './components/
+
+.boton{
+	width: 200px;
+	border:1px solid coral;
+	background-color: #e56b6f;
+	color: white;
+}	
+
+Para detener un servicio 
+ctrl c
+
+Para crear el servidor 
+npm run dev
+
+correr servidor
+npm create vite 
+
+correr local host
+npm run dev --host
+
+IMPORTANTE PARA INICIAR EL PROYECTO ABRIR EL PROYECTO Y CORRER EL SERVIDOR PARA PODER EJECUTAR LOS COMANDOS
+
+1. Para crear un proyecto primero abrir una pantalla de command prompt y luego poner cd y arrastrar la carperta de nuevo proyecto. 
+2. Posteriormente correr 
+
+Para crear el servidor 
+npm run dev
+
+correr servidor
+npm create vite 
+
+correr local host
+npm run dev --host
+
+
+
+
+

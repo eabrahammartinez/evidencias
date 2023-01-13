@@ -1,0 +1,37 @@
+.boton{
+	width: 200px;
+	border:1px solid coral;
+	background-color: #e56b6f;
+	color: white;
+    text-align:center;
+    padding:20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.boton:hover{
+    background-color: #22dda1;
+}
+
+.boton-limpiar{
+	width: 200px;
+	border:1px solid coral;
+	background-color: #e56b6f;
+	color: blue;
+    text-align:center;
+    padding:20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.boton-limpiar{
+	width: 200px;
+	border:1px solid coral;
+	background-color: #e56b6f;
+	color: green;
+    text-align:center;
+    padding:20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
